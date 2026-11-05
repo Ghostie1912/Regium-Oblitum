@@ -1,4 +1,4 @@
-REGIUM OBLITUM — CINEMATIC EDITION
+REGIUM OBLITUM — CINEMATIC EDITION.
 =================================
 A playable ten-chapter pixel-art fantasy adventure with your supplied opening film.
 
