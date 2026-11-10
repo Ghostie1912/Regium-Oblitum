@@ -1,0 +1,12 @@
+BUILD CHECKS
+============
+This is a redesigned 2D pixel-art browser game with a preserved MP4 prologue.
+The manuscript supplied Chapters 1–11 and 13–19; Chapter 12 is not present.
+
+Checks:
+- game.js passed `node --check`.
+- JavaScript mock-DOM and Canvas smoke test ran all new chapter entry functions.
+- Cross-browser visual browser test not completed because automated browser navigation
+  was blocked in the current container. This is not a claim of full gameplay QA.
+
+Important: keep the assets folder next to index.html.
